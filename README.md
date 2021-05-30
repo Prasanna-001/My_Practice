@@ -1,1 +1,2 @@
-hello there thi i sample git folder
+#hello there this is sample git folder..
+I have made some changes...
